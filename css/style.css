@@ -3,6 +3,18 @@ body{
 	font: 16px Arial, Helvetica,sans-serif;
 }
 
+a{
+	text-decoration: none;
+	color: #4b566a;
+	padding-right: 20px;
+	font-weight: bold;
+}
+
+h1{
+	font-size: 1.2em;
+	color: #828271;
+}
+
 #principal{
 	width: 900px;
 }
@@ -13,9 +25,14 @@ body{
 	text-align: center;
 }
 
-a{
-	text-decoration: none;
-	color: #4b566a;
-	padding-right: 20px;
+.conteudo{
+	background: #e8e8d9;
+	padding: 10px;
+}
+
+.rodape{
 	font-weight: bold;
+	text-align: center;
+	color: #828271;
+	padding-top: 20px;
 }
